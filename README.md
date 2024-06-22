@@ -2,9 +2,9 @@
 
  <div>
    <a href="https://github.com/Laryybrunna">
-   <img height="180em"![laryybrunna GitHub stats] src="https://github-readme-stats.vercel.app/api?username=Laryybrunna&theme=Gray_white"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryybrunna&layout=compact&langs_count=6&theme=Gray_white"/>
-    <img height="200em" ![Github streak] src="https://streak-stats.demolab.com/?user=Laryybrunna&theme=gray_white/>
+   <img height="180em"![laryybrunna GitHub stats] src="https://github-readme-stats.vercel.app/api?username=Laryybrunna&theme=Graywhite"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryybrunna&layout=compact&langs_count=6&theme=graywhite"/>
+    <img height="200em" ![Github streak] src="https://streak-stats.demolab.com/?user=Laryybrunna&theme=graywhite/>
 </div> 
     
 <div style="display: inline_block"><br>
