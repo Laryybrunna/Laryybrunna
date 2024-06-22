@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Laryybrunna">
-   <img height="180em" src="https://github-readme-stats.vercel.app/username=laryybrunna&show_icons=true&theme=ambient_gradient-black&include_all_commits=true&count_private=true"/>
+   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Larissa&theme=ambient-gradient"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laryybrunna&layout=compact&langs_count=6&theme="ambient_gradient"/>
 </div> 
     
