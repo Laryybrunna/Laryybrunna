@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 🖤♣️
+## ✧ — Bem-vindo(a) ao meu perfil — ✧
 
  <div>
    <a href="https://github.com/Laryybrunna">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdos me segue a gente nas redes abaixo!
+### Redes Abaixo sociais abaixo:
  
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
